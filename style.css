@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&family=Tiro+Bangla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&display=swap');
+.homepage {
+    background: url("img/homepage.jpg") no-repeat ;
+    height: 700px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.homepage > .homepage_heading1 {
+    font-family: 'Kanit', sans-serif;
+    margin-left: 550px;
+    font-size: 120px;
+    padding-top: 120px;
+    opacity: 0.7;
+
+}
+
+.homepage > .homepage_heading2 {
+    font-family: 'Kanit', sans-serif;
+    margin-left: 520px;
+    font-size: 140px;
+    padding-top: -50px;
+    opacity: 0.9;
+    color: rgb(45, 63, 83);
+
+}
+
+.nav-item {
+    margin-left: 1100;
+    color: red;
+}
+
+
+
+/* history */
+
+.history {
+    background: url("img/history.jpg");
+    height: 755px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hitory_01 {
+    font-size: 200px;
+    margin-left: 200px;
+    opacity: 0.7;
+}
+
+.history_history {
+    margin-left: 400px;
+    font-size: 40px;
+    opacity: 0.9;
+    color: #333;
+    font-family: 'Kanit', sans-serif;
+font-family: 'Tiro Bangla', serif;
+margin-top: -110px;
+}
+
+.history_para {
+    justify-content: justify;
+    margin-left: 350px;
+    margin-top: 20px;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.card{
+    margin-top: 265px;
+    height: 234px;
+    opacity: 0.8;
+    background-color: #333;
+}
+
+.col-md-3 {
+    width: 25%;
+    height: 10px;
+}
+
+
+/* climb */
+
+
+
+
+.climb1 {
+    background: url("img/climb.jpg");
+    height: 550px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.climb_h1 {
+    font-size: 200px;
+    margin-left: 200px;
+    opacity: 0.7;
+    padding-bottom: 30px;
+}
+
+.climb_climb {
+    margin-left: 430px;
+    font-size: 40px;
+    opacity: 0.9;
+    color: #333;
+    font-family: 'Kanit', sans-serif;
+font-family: 'Tiro Bangla', serif;
+margin-top: -135px;
+}
+
+.climb_para{
+    justify-content: justify;
+    margin-left: 650px;
+    margin-top: -95px;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.okay::before {
+    background-color: rgb(83, 117, 204);;
+}
+
+.okay::after
+ {
+    background-color: aliceblue;
+    
+}
+
+.ha {
+    /* margin-top: 120px; */
+}
+
